@@ -1,0 +1,16 @@
+1. Create a Java application to read this file and print out the field values.
+---create a java program called readXMLfile.java to read an XML file and print out the field values
+
+
+2. Change your Java application to only output user-selected fields from that XML file.
+---edit the program to only output user-selected fields from the xml file (through user-interaction)
+
+3. Now change it to output the user-selected fields in JSON format.
+---edit the program so that the user-selected fields are output in JSON format (Jackson)
+
+4. Now include enough validation so that your program does not crash if the user
+types in something unexpected.
+--Include enough validation so that the program does not crash from unexpected user input
+
+5. Now switch to using the SAX XML parser instead
+---make the program use the SAX XML parser
